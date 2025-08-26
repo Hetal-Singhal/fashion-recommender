@@ -19,7 +19,7 @@ A **Fashion and Makeup Recommendation System** that provides personalized sugges
 
 * **App Framework**: Streamlit
 * **Backend & ML**: Python
-* **Other Libraries**: OpenCV, PIL, NumPy, Pandas (if used)
+* **Other Libraries**: OpenCV, PIL, NumPy, Pandas
 
 ---
 
