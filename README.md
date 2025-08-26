@@ -61,4 +61,3 @@ fashion-recommender/
 
 ---
 
-Do you want me to do that?
